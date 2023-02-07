@@ -1,0 +1,14 @@
+The game is designed to test your time management and quick pattern recogintion.
+There are 7 levels in the game with increasing difficulty.
+The player is bound by time and randomly-generated maze walls.
+The purpose is to go from a starting point to the green portal that leads to a next level. 
+Player, by his quick pattern recognition, if finds maze difficult, can regenerate it by
+pressing the "RELOAD" button.
+The problem with "reloading" is that time doesn't wind itself back, which makes time managment
+extremely important. 
+Each level always contains 2 gems - one is a bonus gem, taking which is important if you want to
+break other player's records; second is a time-turner which winds time all the way back.
+Good luck!
+
+P.S. As soon as you take a bonus gem level cannot be regenerated anymore
+so mind your fingers, ball is very sensitive. 
